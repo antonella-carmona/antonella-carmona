@@ -1,4 +1,4 @@
-### Hola 🙋‍, mi nombre is Ivana Antonella Carmona.
+### Hola 🙋‍, mi nombre es Ivana Antonella Carmona.
 
 ![I am GitHub Readme Generator's creator](https://danielmaldonado.com.ar/wp-content/uploads/2019/05/github-octocat-360x240.png)
 
