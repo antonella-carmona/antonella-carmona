@@ -8,7 +8,7 @@
  📫 How to reach me antonellacarmona090@gmail.com
 
  
- ⚡Fun fact "I competed in fitness tournaments and am a sports🏋️ enthusiast."
+⚡Fun fact "I've competed in fitness tournaments and I'm a sports enthusiast🏋️".
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/antonella-carmona)  
