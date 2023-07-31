@@ -1,4 +1,4 @@
-### 🙋 Hello, my name is Ivana Antonella Carmona.
+### 🙋 Hello, my name is Ivana Antonella como apodo me dicen Iva.
 
 
  👨‍💻Actualmente estoy trabajando en mejorar las aplicaciones de Rick and Morty y Pokemon, son mis dos proyectos con tecnologías y habilidades aplicadas de lo aprendido en Henry. Funcionan con base de datos, backend y front.
@@ -17,7 +17,15 @@
 
 
   
+const jkapa7 = [
 
+   "JavaScript (ES6)", "HTML5", "CSS", "React", "Redux", "Node.js", "React", "Node", "Redux", "Sass", "Git", "GitHub",
+   
+   "PostgreSQL", "Node Package Manager (NPM)", "Express",  "Scrum",  "Frontend", "Backend", "Full-Stack", "Planning", 
+   
+   "Perseverance",  "Problem Resolution",  "Self Motivation",  "Flexibility",  "Dedication", "Personal Productivity" 
+  
+];
 
 
 
