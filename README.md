@@ -1,6 +1,8 @@
-👨‍💻Actualmente estoy trabajando en mejorar las aplicaciones de Rick and Morty y Pokemon, son mis dos proyectos con tecnologías y habilidades aplicadas de lo aprendido en Henry. Funcionan con base de datos, backend y front.
 <h1 align="center">Hi 👋, I'm Carmona Ivana</h1>
 <h3 align="center">Developer Full Stack</h3>
+<p>👨‍💻Busco oportunidades laborales en las que pueda usar mis habilidades técnicas y contribuir al desarrollo de experiencias únicas y atractivas. Actualmente estoy trabajando en aprender nuevas habilidades y mejorar las que tengo.</p>
+<p>Estoy en constante crecimiento y aprendizaje, echa un vistazo a mis proyectos para acompañarme en este proceso.🚀</p>
+<p>En mi tiempo libre me gusta entrenar 🏋️‍♀️</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
